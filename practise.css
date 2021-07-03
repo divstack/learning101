@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.header{
+    background-color: darkgoldenrod;
+height: 90px;}
+
+
+.main{
+    background-color: darkorange;
+    height: 60px;
+}
+
+.main1{
+    background-color: darkred;
+    height: 50px;
+}
+.regular{
+    background-color: lightblue;
+    height: 70px; width: 170px;
+}
+.mountain{
+    background-color: lime;
+    height: 70px; width: 170px;
+}
+.bike_type{
+    display: flex;
+}

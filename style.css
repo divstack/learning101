@@ -1,0 +1,30 @@
+
+*{
+    /* remove margin & padding from html structure */
+    margin: 0;
+    padding: 0;
+}
+
+.main_header{
+    border: 1px solid #333;
+    margin-bottom: 30px;
+    height: 90px;
+    color: #fff;
+    background-color: #333;
+}
+
+.nav_header > h1{
+    line-height: 73px;
+    text-align: center;
+}
+
+#sec1{
+    background-color: green;
+    color: #fff;
+}
+
+#sec2{
+    background-color: cyan;
+    color: red;
+    
+}
